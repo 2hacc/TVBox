@@ -1,6 +1,6 @@
 # TVBox
 
-# github加速
+## github加速
 
 ```
 https://raw.iqiq.io/2hacc/TVBox/main/tvbox.txt
