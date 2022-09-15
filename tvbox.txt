@@ -6,7 +6,7 @@
 // 我的 --> 设置 -->  配置地址 --> 请输入 http://0454dt.com/tvbox  --> 确定
 
 {
-"spider":"https://raw.githubusercontent.com/2hacc/TVBox/main/jar/0913.jar",
+"spider":"https://raw.iqiq.io/2hacc/TVBox/main/jar/0913.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2Z0cDYyODQ5MjguaG9zdDEwOC5hYmVpeXVuLmNuL2xpdmUudHh0"]}]}],
 "sites":[
