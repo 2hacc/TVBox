@@ -1,0 +1,88 @@
+{"author": "20220630",
+"name": "Auete影视",
+"url": "https://auete.com",
+"shouye": "1",
+//访问请求头，如果不需要自定义请求ua的话，不填写或者直接删除这个字段就可以了。
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//播放请求头
+"User": "空",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "0",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+
+//影视分类和翻页后缀部分，如果分类类型填空，例如：测试$空，则直接取url字段网站的源码。
+"fenlei": "豆瓣TOP250$/Top250/movie#Netflix影视$/Netflix/movies#谍战剧集推荐$/diezhan/index#电影$/Movie/index#电视剧$/Tv/index#综艺$/Zy/index#动漫$/Dm/index#其他$/qita/index#记录片$/qita/Jlp/index#国产剧$/Tv/neidi/index#韩剧$/Tv/hanju/index#美剧$/Tv/oumei/index#日剧$/Tv/riju/index#泰剧$/Tv/yataiju/index#网剧$/Tv/wangju/index#台剧$/Tv/taiju/index#港剧$/Tv/tvbgj/index#英剧$/Tv/yingju/index#经典剧$/qita/Jdj/index#动画$/Dm/donghua/index#日漫$/Dm/riman/index#国漫$/Dm/guoman/index#美漫$/Dm/meiman/index#经典片$/qita/Jdp/index#网大电影$/qita/wlp/index#国产老电影$/qita/laodianying/index#喜剧片$/Movie/xjp/index#动作片$/Movie/dzp/index#爱情片$/Movie/aqp/index#科幻片$/Movie/khp/index#恐怖片$/Movie/kbp/index#惊悚片$/Movie/jsp/index#战争片$/Movie/zzp/index#剧情片$/Movie/jqp/index",
+"houzhui": ".html",
+"qishiye": "2",//可以自定义列表翻页起始页的页数，如果填上一个空字，则不使用起始页数，直接获取链接的数据。
+
+//影视列表展示部分
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"trans_3",
+"jiequshuzuhou": "<div",
+"tupianqian": "src=\"",//如果tupianqian字段写'网络图片地址'的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianhou": "\"",
+"tupianqianzhui": "空",//可以自己定义截取图片的前缀
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "空", //可以自己定义截取链接的前缀
+
+//副标题不需要的话，就不填写或者删除副标题2个字段也可以。
+"fubiaotiqian": "hdtag\">",
+"fubiaotihou": "</button",
+
+//搜索部分
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"sousuoqian": "/search.php?searchword=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/",
+"ssmoshi": "1",
+"sousuoshifouercijiequ": "0",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "break-all\">",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"sstupianqianzhui": "空",//可以自己定义截取图片的前缀
+"ssbiaotiqian": "text-danger\">",
+"ssbiaotihou": "</span",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
+"ssljqianzhui": "空", //可以自己定义截取链接的前缀
+
+//播放页部分
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"player_list",
+"bfjiequshuzuhou": "</div>",
+
+"zhuangtaiqian": "状态: </span><b>",
+"zhuangtaihou": "</b>",
+"daoyanqian": "影片导演:",
+"daoyanhou": "</p>",
+"zhuyanqian": "影片主演:",
+"zhuyanhou": "</p>",
+"juqingqian": "</a><p>",
+"juqinghou": "</p>",
+
+"bfyshifouercijiequ": "1",
+"bfyjiequqian": "<ul>",
+"bfyjiequhou": "</ul>",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\"",
+"bfqianzhui": "" //可以自己定义截取播放链接的前缀，不需要的话不填写，或者删除这个字段即可。
+}

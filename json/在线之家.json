@@ -1,0 +1,72 @@
+// url变更、分类 ++
+{
+  "name": "在线之家",
+  "url": "https://zxzj.vip",
+  "User": "空",
+  "shouye": "1",
+  
+  //"fenlei": "电影$/list/1-#美剧$/list/2-#韩剧$/list/3-#日剧$/list/4-#泰剧$/list/5-#动漫$/list/6-",
+  "fenlei": "电影$/vodshow/1--------#美剧$/vodshow/2--------#韩剧$/vodshow/3--------#日剧$/vodshow/4--------#泰剧$/vodshow/5--------#动漫$/vodshow/6--------#动画片$/vodshow/1---动画-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#恐怖片$/vodshow/1---恐怖-----#动作片$/vodshow/1---动作-----#科幻片$/vodshow/1---科幻-----#剧情片$/vodshow/1---剧情-----#战争片$/vodshow/1---战争-----#警匪片$/vodshow/1---警匪-----#犯罪片$/vodshow/1---犯罪-----#奇幻片$/vodshow/1---奇幻-----#冒险片$/vodshow/1---冒险-----",
+  "houzhui": "---.html",
+  
+  "shifouercijiequ": "0",
+  "jiequqian": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"stui-vodlist__box",
+  "jiequshuzuhou": "</li>",
+  "tupianqian": "data-original=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span",
+
+  
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/detail/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+  "bfjiequshuzuhou": "</ul>",
+  
+  "zhuangtaiqian": "更新：",
+  "zhuangtaihou": "</p>",
+  "daoyanqian": "导演：",
+  "daoyanhou": "</p>",
+  "zhuyanqian": "主演：",
+  "zhuyanhou": "</p>",
+  "juqingqian": "style=\"display: none;\">",
+  "juqinghou": "</span",
+  
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<li",
+  "bfyjiequshuzuhou": "</li>",
+  "bfbiaotiqian": "\">",
+  "bfbiaotihou": "</a>",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}
