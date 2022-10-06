@@ -3,7 +3,7 @@
 /*------论坛里有各种安卓软件、电脑软件及TV接口--------*/
 
 # 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 http://0454dt.com/tvbox  --> 确定
+// 我的 --> 设置 -->  配置地址 --> 请输入 http://2ha.cc/tv  --> 确定
 {
 "spider":"http://2ha.cc/tv/jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -16,11 +16,11 @@
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/nmys.json"},
     {"key":"csp_AppTT","name":"兔兔","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"csp_Nianying","name":"NB","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Bttoo","name":"2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sourl.cn/MTtpwt"},
     {"key":"csp_Lezhu","name":"乐猪","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_apple","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Bttoo","name":"2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Lib","name": "Lib","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
