@@ -1,0 +1,13 @@
+{
+	"免嗅": "1",
+	
+	"导演": "导演：&&</div",
+	"主演": "主演：&&</div",
+	"简介": "module-info-introduction-content&&</div>",
+	"播放标": ">&&<",
+	"播放数组": "class=\"stui-content__playlist&&</div>",
+	"分类": "电视剧$2#动漫$4#电影$1#综艺$3#专题$5",
+	"分类url": "https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html",
+	"年份": "2000-2022",
+	"筛选": "0"
+}

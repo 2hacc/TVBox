@@ -1,0 +1,9 @@
+{
+	"免嗅": "1",
+	"播放标题": "span>&&<",
+	"副标题": "class=\"module-item-note\">&&</div>",
+	"线路数组": "class=\"module-tab-item tab-item&&</div>",
+	"线路标题": "<span>&&</span>",
+	"播放数组": "class=\"module-play-list&&</div>",
+	"分类url": "http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+}
