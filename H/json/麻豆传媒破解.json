@@ -52,8 +52,8 @@
   "bfyjiequhou": "空",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": ">",
-  "bfbiaotihou": "<",
+  "bfbiaotiqian": "class=\"blog-single\"",
+  "bfbiaotihou": "</button>",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
