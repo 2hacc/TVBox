@@ -7,7 +7,7 @@
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian":"class=\"stui-vodlist\"",
+  "jiequshuzuqian":"class=\"stui-vodlist__item\"",
   "jiequshuzuhou": "</h4>",
   "tupianqian":"data-original=\"",
   "tupianhou": "\"",
