@@ -1,6 +1,6 @@
-import './lib/util.js';
-import cheerio from 'assets://drpy/lib/cheerio.min.js';
-import 'assets://drpy/lib/crypto-js.js'
+import 'https://raw.iqiq.io/2hacc/TVBox/main/drpy/lib/util.js';
+import cheerio from 'https://raw.iqiq.io/2hacc/TVBox/main/drpy/lib/cheerio.min.js';
+import 'https://raw.iqiq.io/2hacc/TVBox/main/drpy/lib/crypto-js.js'
 // import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
 
 // const key = 'drpy_zbk';
