@@ -1,6 +1,6 @@
 import './lib/util.js';
-import cheerio from './lib/cheerio.min.js';
-import './lib/crypto-js.js'
+import cheerio from 'assets://drpy/lib/cheerio.min.js';
+import 'assets://drpy/lib/crypto-js.js'
 // import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
 
 // const key = 'drpy_zbk';
