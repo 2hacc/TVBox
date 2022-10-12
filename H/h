@@ -17,6 +17,7 @@
     {"key":"csp_Banana","name":"🏆香蕉","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/H/json/新香蕉.json"},
     {"key": "csp_biubiu_麻豆","name": "🏆麻豆","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/麻豆传媒破解.json"},
     {"key": "csp_biubiu_GAOAA","name": "🏆GAOAA","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/GAOAA.json"},
+    
     {"key": "AList","name": "💾AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/json/halist.json"},
     {"key": "push_agent","name": "💾推送","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3865f0ab8f124688ad786a262af9b940"},
 
