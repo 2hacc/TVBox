@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://raw.iqiq.io/2hacc/TVBox/main/H/jar/h.png;md5;b0639930fdbece10a85fd731d631136d",
+  "spider": "https://raw.iqiq.io/2hacc/TVBox/main/H/jar/h.jar;md5;806ac04991f255b759306ea1f596a527",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
     {"key": "CK资源","name": "🍀CK资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
