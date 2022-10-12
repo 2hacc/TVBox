@@ -12,6 +12,7 @@
     {"key": "csp_biubiu_真不卡2","name": "🍀真不卡2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/真不卡影院2.json"},
     {"key": "csp_biubiu_555电影","name": "🍀555","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/555.json"},
     {"key": "csp_biubiu_茶杯狐","name": "🍀茶杯狐","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/茶杯狐.json"},
+    
     {"key": "csp_biubiu_四虎","name": "🏆四虎","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/四虎影院.json"},
     {"key":"csp_Banana","name":"🏆香蕉","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/H/json/新香蕉.json"},
     {"key": "csp_biubiu_麻豆","name": "🏆麻豆","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/麻豆传媒破解.json"},
