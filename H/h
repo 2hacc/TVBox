@@ -3,7 +3,6 @@
   "spider": "https://raw.iqiq.io/2hacc/TVBox/main/H/jar/h.jar;md5;806ac04991f255b759306ea1f596a527",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
-
     {"key": "CK资源","name": "🍀CK资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "酷伦理","name": "🍀酷伦理","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "影库","name": "🍀影库","type": 0,"api": "https://api.ykapi.net/api.php/provide/vod/at/xml/","playUrl": "http://jx.ykyunbo.com/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -18,9 +17,6 @@
     {"key":"csp_Banana","name":"🏆香蕉","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/H/json/新香蕉.json"},
     {"key": "csp_biubiu_麻豆","name": "🏆麻豆","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/麻豆传媒破解.json"},
     {"key": "csp_biubiu_GAOAA","name": "🏆GAOAA","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/H/json/GAOAA.json"},
-    
-    {"key": "AList","name": "💾AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/json/halist.json"},
-    {"key": "push_agent","name": "💾推送","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3865f0ab8f124688ad786a262af9b940"},
 
     {"key":"亚洲成人在线","name":"👙亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable": 0},
     {"key":"草榴视频","name":"👙草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable": 0},
