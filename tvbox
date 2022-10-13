@@ -5,7 +5,7 @@
 # 配置地址 简易设定流程
 // 我的 --> 设置 -->  配置地址 --> 请输入 http://2ha.cc/tv  --> 确定
 {
-"spider":"https://raw.iqiq.io/2hacc/TVBox/main/jar/tvbox.png;md5;610006075c76f429d58dd046404e6d4d",
+"spider":"http://2ha.cc/tv/jar;md5;72707118bb4dc9a40e0cbeb904f0d617",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby8yaGFjYy9UVkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="]}]}],
 "sites":[
