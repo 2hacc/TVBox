@@ -115,9 +115,10 @@
     {"key": "drpy_js_快云影院","name": "快云影院[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/快云影院.js"},
     {"key": "drpy_js_爱看影视","name": "爱看影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/爱看影视.js"},
     {"key": "drpy_js_爱看电影","name": "爱看电影[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/爱看电影.js"},
-    # {"key": "drpy_js_特狗影视","name": "特狗影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/特狗影视.js"},
+    //{"key": "drpy_js_特狗影视","name": "特狗影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/特狗影视.js"},
     {"key": "drpy_js_看了么","name": "看了么[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/看了么.js"},
     {"key": "drpy_js_胖虎影视","name": "胖虎影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/胖虎影视.js"},
+    {"key": "drpy_js_麦豆","name": "麦豆[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/麦豆.js"},
 
     {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
     {"key":"csp_appysv2_万能影院","name":"万能影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
