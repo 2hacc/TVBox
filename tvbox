@@ -233,6 +233,14 @@
     {"key":"csp_xp_mozhatu","name":"莫扎兔[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/X/xp/mozhatu.json"},
     {"key":"csp_xp_yingba","name":"电影吧[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/X/xp/yingba.json"}
   ],
+  "rules" : [
+    {"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},
+    {"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},
+    {"host" : "*","rule" : ["ysting.ysxs8.vip","m4a"]},
+    {"host" : "www.agemys.cc","rule" : ["cdn-tos","obj/tos-cn"]},
+    {"host" : "*","rule" : ["/m3u8.php","path="]},
+    {"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}
+  ],
   "parses":[
       {"name":"解析聚合","type":3,"url":"Demo"},
       {"name":"Json并发","type":2,"url":"Parallel"},
