@@ -2,7 +2,7 @@
 /*----------------https://www.2ha.cc---------------*/
 /*------论坛里有各种安卓软件、电脑软件及TV接口--------*/
 
-# 配置地址 简易设定流程
+// 配置地址 简易设定流程
 // 我的 --> 设置 -->  配置地址 --> 请输入 http://0454dt.com/tvbox 或者 http://2ha.cc/tv  --> 确定
 {
   "spider":"https://raw.iqiq.io/2hacc/TVBox/main/jar/tvbox.png;md5;610006075c76f429d58dd046404e6d4d",
@@ -43,22 +43,12 @@
     {"key":"csp_xpath_qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/X/xp/dj看球.json"},
     {"key":"csp_XYQBiu_310直播","name":"310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/X/XYQxb/310直播.json"},
     {"key":"csp_xBPQ_zf","name": "抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/X/xbpq/抓饭体育.json"},
-
-    {"key":"douban","name":"豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
-    {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
-    {"key":"csp_Yiso","name":"易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
-    {"key":"csp_Upyunso","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
-    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
-    
     {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/幼儿乐园.json"},
     {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/少儿教育.json"},
     {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/小学课堂.json"},
     {"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/初中课堂.json"},
     {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/高中课堂.json"},
 
-    //drpy
     {"key": "drpy_js_drpy","name": "豆瓣[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/drpy.js"},
     {"key": "drpy_js_360影视","name": "360影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/360影视.js"},
     {"key": "drpy_js_555影视","name": "555影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/555影视.js"},
@@ -137,6 +127,14 @@
     {"key": "drpy_js_小品网","name": "小品网[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/小品网.js"},
     {"key": "drpy_js_有声小说吧","name": "有声小说吧[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/有声小说吧.js"},
     {"key": "drpy_js_抓饭体育","name": "抓饭体育[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/抓饭体育.js"},
+
+    {"key":"douban","name":"豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
+    {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
+    {"key":"csp_Yiso","name":"易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
+    {"key":"csp_Upyunso","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
 
     {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
     {"key":"csp_appysv2_万能影院","name":"万能影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
