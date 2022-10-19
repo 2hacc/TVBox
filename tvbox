@@ -59,7 +59,7 @@
     {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/高中课堂.json"},
 
     //drpy
-    {"key": "drpy_js_drpy","name": "豆瓣[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/豆瓣.js"},
+    {"key": "drpy_js_drpy","name": "豆瓣[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/drpy.js"},
     {"key": "drpy_js_360影视","name": "360影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/360影视.js"},
     {"key": "drpy_js_555影视","name": "555影视[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/555影视.js"},
     {"key": "drpy_js_1080P","name": "1080P[DRPY]","type": 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/1080P.js"},
