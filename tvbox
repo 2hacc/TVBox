@@ -12,7 +12,7 @@
   "sites":[
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_dd5555","name":"555","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+    // {"key":"csp_dd5555","name":"555","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_SP293","name":"293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
@@ -37,7 +37,8 @@
 
     {"key" : "drpy_js_豆瓣","name" : "豆瓣[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/豆瓣.js"},
     {"key" : "drpy_js_360影视","name" : "360[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/360影视.js"},
-    {"key" : "drpy_js_酷云77","name" : "酷云77[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/酷云77.js"},
+    {"key" : "drpy_js_酷云77","name" : "七七[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/酷云77.js"},
+    {"key" : "drpy_js_555影视","name" : "555[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/555影视.js"},
     {"key" : "drpy_js_爱奇艺","name" : "爱奇艺[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/爱奇艺.js"},
     {"key" : "drpy_js_优酷","name" : "优酷[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/优酷.js"},
     {"key" : "drpy_js_腾讯","name" : "腾讯[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/腾讯.js"},
@@ -101,7 +102,6 @@
     {"key" : "drpy_js_影视工厂","name" : "影视工厂[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/影视工厂.js"},
     {"key" : "drpy_js_在线之家","name" : "在线之家[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/在线之家.js"},
     {"key" : "drpy_js_瓜皮TV","name" : "瓜皮TV[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/瓜皮TV.js"},
-    {"key" : "drpy_js_555影视","name" : "555影视[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/555影视.js"},
     {"key" : "drpy_js_蓝光影院","name" : "蓝光影院[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/蓝光影院.js"},
     {"key" : "drpy_js_莫扎兔","name" : "莫扎兔[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/莫扎兔.js"},
     {"key" : "drpy_js_追剧喵","name" : "追剧喵[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/追剧喵.js"},
