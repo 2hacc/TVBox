@@ -1,6 +1,6 @@
 var rule = Object.assign(muban.mxpro,{
 title:'蓝莓影视',
-host:'https://lanmeiguojiang.com',
+host:'http://www.lanmeiys.com',
 // url:'/show/fyclass--------fypage---.html',
 // url:'/show/fyclass-{{fl.地区}}-{{fl.排序}}-{{fl.剧情}}-{{fl.语言}}-{{fl.字母}}---fypage--{{fl.年份}}.html',
 url:'/show/fyclass-fyfilter',
