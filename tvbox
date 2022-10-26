@@ -62,6 +62,8 @@
     {"key" : "drpy_js_追剧达人","name" : "追剧达人[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/追剧达人.js"},
     {"key" : "drpy_js_厂长资源","name" : "厂长资源[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/厂长资源.js"},
     {"key" : "drpy_js_快看","name" : "快看[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/快看.js"},
+    {"key" : "drpy_js_爱看影视","name" : "爱看影视[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/爱看影视.js"},
+    {"key" : "drpy_js_爱酷影视","name" : "爱酷影视[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/爱酷影视.js"},
     {"key" : "drpy_js_素白白","name" : "素白白[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/素白白.js"},
     {"key" : "drpy_js_双十电影","name" : "双十电影[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/双十电影.js"},
     {"key" : "drpy_js_8号影院","name" : "8号影院[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/8号影院.js"},
@@ -153,6 +155,7 @@
   ],
   "rules" : [
     {"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},
+    {"host" : "*","rule" : ["douyin.com/aweme", "video_id="]},
     {"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},
     {"host" : "*","rule" : ["ysting.ysxs8.vip","m4a"]},
     {"host" : "*","rule" : ["/m3u8.php","path="]},
