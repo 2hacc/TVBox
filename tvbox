@@ -104,7 +104,6 @@
     {"key" : "drpy_js_量子影视","name" : "量子影视[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/量子影视.js"},
     {"key" : "drpy_js_我爱电影","name" : "我爱电影[DRPY]","type" : 3,"api" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/我爱电影.js"},
     {"key" : "drpy_js_有声小说吧","name" : "有声小说吧[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/有声小说吧.js"},
-    {"key" : "drpy_js_兔小贝","name" : "兔小贝[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/兔小贝.js"},
     {"key" : "drpy_js_AnFuns","name" : "AnFuns[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/AnFuns.js"},
     {"key" : "drpy_js_AGE动漫","name" : "AGE动漫[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/AGE动漫.js"},
     {"key" : "drpy_js_omofun动漫","name" : "omofun动漫[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/omofun动漫.js"},
@@ -122,10 +121,10 @@
     {"key" : "drpy_js_抓饭体育","name" : "抓饭体育[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/抓饭体育.js"},
     {"key" : "drpy_js_学生球赛录像","name" : "学生球赛录像[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/学生球赛录像.js"},
 
-
     {"key":"csp_Bili","name":"哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/bilibili.json"},
     {"key":"csp_Biliych","name":"看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/Biliych.json"},
     
+    {"key" : "drpy_js_兔小贝","name" : "兔小贝[DRPY]","type" : 3,"api": "https://raw.iqiq.io/2hacc/TVBox/main/drpy/drpy.js","ext" : "https://raw.iqiq.io/2hacc/TVBox/main/drpy/js/兔小贝.js"},
     {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/幼儿乐园.json"},
     {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/少儿教育.json"},
     {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/小学课堂.json"},
