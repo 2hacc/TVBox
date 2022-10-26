@@ -124,10 +124,6 @@
     {"key":"csp_Bili","name":"哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/bilibili.json"},
     {"key":"csp_Biliych","name":"看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/Biliych.json"},
     
-    {"key":"csp_XYQBiu_17看","name":"17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/X/XYQxb/17看.json"},
-    {"key":"csp_xpath_qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/X/xp/dj看球.json"},
-    {"key":"csp_XYQBiu_310直播","name":"310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/X/XYQxb/310直播.json"},
-    {"key":"csp_xBPQ_zf","name": "抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/2hacc/TVBox/main/X/xbpq/抓饭体育.json"},
     {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/幼儿乐园.json"},
     {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/少儿教育.json"},
     {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/小学课堂.json"},
