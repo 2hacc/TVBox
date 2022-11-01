@@ -185,7 +185,7 @@
     {"name":"解析9","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {"name":"解析10","type":0,"url":"https://h5.freejson.xyz/player/?url="},
     {"name":"解析11","type":0,"url":"https://freejx.rx88.top:1234/?url="},
-    {"name":"解析12","type":0,"url":"https://okjx.cc/?url="}
+    {"name":"解析12","type":0,"url":"https://okjx.cc/?url="},
     {"name":"解析13","type":0,"url":"http://91fanli.top/m3u8/?url=","ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
     {"name":"解析14","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"解析15","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
