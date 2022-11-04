@@ -6,7 +6,7 @@
 // 我的 --> 设置 -->  配置地址 --> 请输入 http://0454dt.com/tvbox 或者 http://2ha.cc/tv  --> 确定
 
 {
-  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/TVBox/main/jar/tvbox.jar;md5;05a78180f6dbedb53635b892531ad928",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.jar;md5;773e4f361bc1bcaa7c5207417d6f2119",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby8yaGFjYy9UVkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="]}]}],
   "sites":[
