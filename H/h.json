@@ -3,7 +3,17 @@
   "spider": "http://apis.fanyeyun.com/down.php/7c7f42d9ca09fd4e49aae8dceb00c010.txt",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
+    {"key": "csp_xpath_lenxitv","name": "🍀冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},
+    {"key": "csp_XBiu_酷云","name": "🍀酷云(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云.json"},
+    {"key": "csp_XBiu_真不卡","name": "🍀真不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡.json"},
+    {"key": "csp_XBiu_真不卡2","name": "🍀真不卡2(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡2.json"},
+    {"key": "csp_XBiu_真不卡3","name": "🍀真不卡3(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡3.json"},
+    {"key": "csp_XBiu_不卡","name": "🍀不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
 
+    {"key": "CK资源","name": "CK资源（含三级）","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "影库","name": "影库（含三级）","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "影库2","name": "影库2（含三级）","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "酷伦","name": "酷伦","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","playUrl": "https://jx.kujiexi.net/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 
     {"key": "csp_xBPQ_香蕉AV解说","name": "香蕉AV解说","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉解说.json"},
@@ -31,17 +41,10 @@
     {"key": "csp_xBPQ_小丑撸","name": "小丑撸","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/小丑撸.json"},
     {"key": "csp_xBPQ_小丑撸2","name": "小丑撸2","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/小丑撸2.json"},
 
-
-
     
-
-    {"key": "csp_xpath_lenxitv","name": "冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},
     {"key": "csp_Alist","name": "💾Alist","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/58993/Alist.json?sign=u1LstZcmJ3RwCSrwfF1XeIejOUCRQHQSqsNhH-9mUxw%3D%3A0"},
     {"key": "AList","name": "💾AList","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"},
 
-    
-
-    
 
     {"key": "drpy_js_猫了个咪","name": "🚀猫了个咪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/猫了个咪.js"},
     {"key": "drpy_js_18av","name": "🚀18av[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/18av.js"},
@@ -72,19 +75,13 @@
 
 
     
-    {"key": "JAV名优","name": "JAV名优","type": 0,"api": "http://mygzycj.com/api.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
+    
 
 
     
 
-    {"key": "csp_XBiu_酷云","name": "🍀酷云(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云.json"},
-    // {"key": "csp_XBiu_酷云2","name": "酷云2(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云2.json"},
-    {"key": "csp_XBiu_真不卡","name": "🍀真不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡.json"},
-    {"key": "csp_XBiu_真不卡2","name": "🍀真不卡2(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡2.json"},
-    {"key": "csp_XBiu_真不卡3","name": "🍀真不卡3(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡3.json"},
-    {"key": "csp_XBiu_不卡","name": "🍀不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
-    {"key": "csp_XBiu_茶杯狐","name": "🍀茶杯狐(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/茶杯狐.json"},
+    
+
 
     {"key": "csp_XBiu_香蕉","name": "香蕉(XB)️","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/香蕉.json"},
     {"key": "csp_XBiu_6699","name": "6699(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/6699.json"},
@@ -101,10 +98,9 @@
 
 
 
-    {"key": "CK资源","name": "CK资源（含三级）","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "影库","name": "影库（含三级）","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "影库2","name": "影库2（含三级）","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "酷伦","name": "酷伦","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","playUrl": "https://jx.kujiexi.net/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
+    
+    {"key": "JAV名优","name": "JAV名优","type": 0,"api": "http://mygzycj.com/api.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "91传媒","name": "91传媒","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "酷豆","name": "酷豆","type": 0,"api": "https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "探探","name": "探探","type": 1,"api": "https://apittzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 0},
