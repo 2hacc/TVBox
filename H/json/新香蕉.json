@@ -1,0 +1,334 @@
+{
+  "classes": [
+    {
+      "type_name": "超清资源",
+      "type_id": "cqzy/cqzyfl/62"
+    },
+    {
+      "type_name": "中文资源",
+      "type_id": "xxj/xxjfl/zwzh"
+    },
+    {
+      "type_name": "AV解说",
+      "type_id": "avjs/avjsfl/avjs"
+    },
+    {
+      "type_name": "国产传媒",
+      "type_id": "gccm/gccmfl/1"
+    },
+    {
+      "type_name": "废柴网资源",
+      "type_id": "fcw/fcwfl/vipzq"
+    },
+    {
+      "type_name": "久久热资源",
+      "type_id": "99re/99refl/72"
+    }
+  ],
+  "filter": {
+      "cqzy/cqzyfl/62": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "亚洲AV",
+            "v": "cqzy/cqzyfl/62"
+          },
+          {
+            "n": "3D动漫",
+            "v": "cqzy/cqzyfl/66"
+          },
+          {
+            "n": "自拍偷拍",
+            "v": "cqzy/cqzyfl/63"
+          },
+          {
+            "n": "超清传媒",
+            "v": "cqzy/cqzyfl/64"
+          },
+          {
+            "n": "欧美AV",
+            "v": "cqzy/cqzyfl/65"
+          },
+          {
+            "n": "乱伦人妻",
+            "v": "cqzy/cqzyfl/67"
+          },
+          {
+            "n": "丝袜制服",
+            "v": "cqzy/cqzyfl/68"
+          },
+          {
+            "n": "直播录播",
+            "v": "cqzy/cqzyfl/69"
+          },
+          {
+            "n": "SM另类",
+            "v": "cqzy/cqzyfl/70"
+          },
+          {
+            "n": "超清三级",
+            "v": "cqzy/cqzyfl/71"
+          }
+        ]
+      }
+    ],
+      "xxj/xxjfl/zwzh": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "中文综合",
+            "v": "xxj/xxjfl/zwzh"
+          },
+          {
+            "n": "中文无码",
+            "v": "xxj/xxjfl/zwwm"
+          },
+          {
+            "n": "中文近亲",
+            "v": "xxj/xxjfl/zwjq"
+          },
+          {
+            "n": "中文护士",
+            "v": "xxj/xxjfl/zwhs"
+          },
+          {
+            "n": "中文师生",
+            "v": "xxj/xxjfl/zwss"
+          },
+          {
+            "n": "中文强奸",
+            "v": "xxj/xxjfl/zwqj"
+          },
+          {
+            "n": "美女主播",
+            "v": "xxj/xxjfl/mnzb"
+          },
+          {
+            "n": "国产自拍",
+            "v": "xxj/xxjfl/gczp"
+          },
+          {
+            "n": "三级综合",
+            "v": "xxj/xxjfl/sjzh"
+          }
+        ]
+      }
+    ],
+      "gccm/gccmfl/1": [
+      {
+        "key": "tid",
+        "name": "全部",
+        "value": [
+          {
+            "n": "麻豆原创",
+            "v": "gccm/gccmfl/1"
+          },
+          {
+            "n": "91制片厂",
+            "v": "gccm/gccmfl/2"
+          },
+          {
+            "n": "天美传媒",
+            "v": "gccm/gccmfl/3"
+          },
+          {
+            "n": "蜜桃传媒",
+            "v": "gccm/gccmfl/4"
+          },
+          {
+            "n": "皇家华人",
+            "v": "gccm/gccmfl/5"
+          },
+          {
+            "n": "星空传媒",
+            "v": "gccm/gccmfl/6"
+          },
+          {
+            "n": "精东影业",
+            "v": "gccm/gccmfl/7"
+          },
+          {
+            "n": "乐播传媒",
+            "v": "gccm/gccmfl/8"
+          },
+          {
+            "n": "乌鸦传媒",
+            "v": "gccm/gccmfl/9"
+          },
+          {
+            "n": "兔子先生",
+            "v": "gccm/gccmfl/10"
+          },
+          {
+            "n": "杏吧原创",
+            "v": "gccm/gccmfl/11"
+          },
+          {
+            "n": "mini传媒",
+            "v": "gccm/gccmfl/12"
+          },
+          {
+            "n": "大象传媒",
+            "v": "gccm/gccmfl/13"
+          },
+          {
+            "n": "开心鬼传媒",
+            "v": "gccm/gccmfl/14"
+          },
+          {
+            "n": "PsychoPorn",
+            "v": "gccm/gccmfl/15"
+          },
+          {
+            "n": "糖心Vlgo",
+            "v": "gccm/gccmfl/16"
+          }
+        ]
+      }
+    ],
+      "fcw/fcwfl/vipzq": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "VIP专区",
+            "v": "fcw/fcwfl/vipzq"
+          },
+          {
+            "n": "日本有码",
+            "v": "fcw/fcwfl/rbym"
+          },
+          {
+            "n": "日本无码",
+            "v": "fcw/fcwfl/rbwm"
+          },
+          {
+            "n": "偷拍系列",
+            "v": "fcw/fcwfl/tpxl"
+          },
+          {
+            "n": "成人动漫",
+            "v": "fcw/fcwfl/crdm"
+          },
+          {
+            "n": "国产自拍",
+            "v": "fcw/fcwfl/gczp"
+          },
+          {
+            "n": "韩国综合",
+            "v": "fcw/fcwfl/hgzp"
+          },
+          {
+            "n": "VR专区",
+            "v": "fcw/fcwfl/vrzq"
+          },
+          {
+            "n": "欧美专区",
+            "v": "fcw/fcwfl/omzq"
+          }
+        ]
+      }
+    ],
+      "99re/99refl/72": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "国产自拍",
+            "v": "99re/99refl/72"
+          },
+          {
+            "n": "高清资源",
+            "v": "99re/99refl/60"
+          },
+          {
+            "n": "肛交",
+            "v": "99re/99refl/67"
+          },
+          {
+            "n": "口爆颜射",
+            "v": "99re/99refl/66"
+          },
+          {
+            "n": "潮吹",
+            "v": "99re/99refl/63"
+          },
+          {
+            "n": "制服丝袜",
+            "v": "99re/99refl/65"
+          },
+          {
+            "n": "一本道",
+            "v": "99re/99refl/59"
+          },
+          {
+            "n": "日本有码",
+            "v": "99re/99refl/58"
+          },
+          {
+            "n": "加勒比",
+            "v": "99re/99refl/57"
+          },
+          {
+            "n": "日本无码",
+            "v": "99re/99refl/56"
+          },
+          {
+            "n": "李宗瑞全集",
+            "v": "99re/99refl/55"
+          },
+          {
+            "n": "中文字幕",
+            "v": "99re/99refl/54"
+          },
+          {
+            "n": "会员认证作品",
+            "v": "99re/99refl/64"
+          },
+          {
+            "n": "欧美",
+            "v": "99re/99refl/53"
+          },
+          {
+            "n": "东京热",
+            "v": "99re/99refl/68"
+          },
+          {
+            "n": "小格式综合",
+            "v": "99re/99refl/69"
+          },
+          {
+            "n": "女主播系列",
+            "v": "99re/99refl/70"
+          },
+          {
+            "n": "成人动漫",
+            "v": "99re/99refl/71"
+          },
+          {
+            "n": "SM性虐",
+            "v": "99re/99refl/73"
+          },
+          {
+            "n": "韩国综合",
+            "v": "99re/99refl/74"
+          },
+          {
+            "n": "三级专区",
+            "v": "99re/99refl/75"
+          },
+          {
+            "n": "VR专区",
+            "v": "99re/99refl/76"
+          }
+        ]
+      }
+    ]
+  }
+}
