@@ -10,7 +10,7 @@
     {"key": "csp_XBiu_真不卡3","name": "🍀真不卡3(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡3.json"},
     {"key": "csp_XBiu_不卡","name": "🍀不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
     {"key": "CK资源","name": "🍀CK资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "影库","name": "🍀影库","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "影库","name": "🍀影库","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 
     
