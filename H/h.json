@@ -9,11 +9,11 @@
     {"key": "csp_XBiu_真不卡2","name": "🍀真不卡2(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡2.json"},
     {"key": "csp_XBiu_真不卡3","name": "🍀真不卡3(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡3.json"},
     {"key": "csp_XBiu_不卡","name": "🍀不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
+    {"key": "CK资源","name": "🍀CK资源","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "影库","name": "🍀影库","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-    {"key": "CK资源","name": "CK资源（含三级）","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "影库","name": "影库（含三级）","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "影库2","name": "影库2（含三级）","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-    {"key": "酷伦","name": "酷伦","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","playUrl": "https://jx.kujiexi.net/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
+
+    
 
 
     {"key": "csp_xBPQ_香蕉AV解说","name": "香蕉AV解说","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉解说.json"},
@@ -98,7 +98,7 @@
 
 
 
-    
+    {"key": "酷伦","name": "酷伦","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","playUrl": "https://jx.kujiexi.net/m3u8.php?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "JAV名优","name": "JAV名优","type": 0,"api": "http://mygzycj.com/api.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "91传媒","name": "91传媒","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1},
