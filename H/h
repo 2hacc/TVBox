@@ -141,7 +141,7 @@
     {"key":"葡萄","name":"🥈葡萄","type":1,"api":"https://caiji.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable": 0},
     {"key":"99资源","name":"🥈99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable": 0},
     {"key": "水蜜桃","name": "🥈水蜜桃","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
-    {"key": "辣椒","name": "🥈辣椒","type": 1,"api": "http://api.11bat.com/api.php/provide/vod/at/xml/","quickSearch": 1,"searchable": 1,"filterable": 1}
+    {"key": "辣椒","name": "🥈辣椒","type": 1,"api": "http://api.11bat.com/api.php/provide/vod/at/xml/","quickSearch": 1,"searchable": 1,"filterable": 1},
     {"key": "葡萄","name": "🥈葡萄","type": 1,"api": "http://api.putaozy.net/inc/apijson_vod.php","playUrl": "https://jiexi.putaozy.net/m3u8/?url=","quickSearch": 1,"searchable": 1,"filterable": 1},
     {"key": "抖阴","name": "🥈抖阴","type": 1,"api": "https://www.888dav.com/api.php/provide/vod/","quickSearch": 1,"searchable": 1,"filterable": 1},
     {"key": "国色","name": "🥈国色","type": 1,"api": "https://api.guosezy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 0},
