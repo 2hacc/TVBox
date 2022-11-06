@@ -78,13 +78,13 @@
 
     
 
-    {"key": "csp_XBiu_酷云","name": "🍀酷云（含三级）(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云.json"},
-    // {"key": "csp_XBiu_酷云2","name": "酷云2（含三级）(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云2.json"},
-    {"key": "csp_XBiu_真不卡","name": "🍀真不卡（含三级）(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡.json"},
-    {"key": "csp_XBiu_真不卡2","name": "🍀真不卡2（含三级）(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡2.json"},
-    {"key": "csp_XBiu_真不卡3","name": "🍀真不卡3(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
-    {"key": "csp_XBiu_不卡","name": "🍀不卡（含三级）(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
-    {"key": "csp_XBiu_茶杯狐","name": "🍀茶杯狐（含三级）(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/茶杯狐.json"},
+    {"key": "csp_XBiu_酷云","name": "🍀酷云(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云.json"},
+    // {"key": "csp_XBiu_酷云2","name": "酷云2(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/酷云2.json"},
+    {"key": "csp_XBiu_真不卡","name": "🍀真不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡.json"},
+    {"key": "csp_XBiu_真不卡2","name": "🍀真不卡2(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡2.json"},
+    {"key": "csp_XBiu_真不卡3","name": "🍀真不卡3(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/真不卡3.json"},
+    {"key": "csp_XBiu_不卡","name": "🍀不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/不卡.json"},
+    {"key": "csp_XBiu_茶杯狐","name": "🍀茶杯狐(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/茶杯狐.json"},
 
     {"key": "csp_XBiu_香蕉","name": "香蕉(XB)️","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/香蕉.json"},
     {"key": "csp_XBiu_6699","name": "6699(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/6699.json"},
