@@ -19,7 +19,7 @@
   "搜索模式":"1",
   "搜索url":"/index.php/ajax/suggest?mid=1&wd=&limit=500",
   "搜索后缀": "/voddetail/",
-  "分类":"分類$vodtype/25#選片$topicdetail-18#AV番号$topicdetail-8",
+  "分类":"分类$vodtype/25#选片$topicdetail-18#AV番号$topicdetail-8",
   "分类url":"https://banan.tv/{cateId}-{catePg}.html",
   "免嗅":"1",
   "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
@@ -30,14 +30,14 @@
         "name":"",
         "value":[
           {"n":"日本AV","v":"vodtype/22"},
-          {"n":"91porn視頻","v":"vodtype/23"},
+          {"n":"91porn视频","v":"vodtype/23"},
           {"n":"免费H漫","v":"vodtype/24"},
-          {"n":"國產AV麻豆傳媒","v":"vodtype/25"},
+          {"n":"国产AV麻豆传媒","v":"vodtype/25"},
           {"n":"FC2PPV","v":"vodtype/28"},
-          {"n":"網紅主播","v":"vodtype/29"},
+          {"n":"网红主播","v":"vodtype/29"},
           {"n":"无码A片","v":"vodtype/66"},
           {"n":"素人AV","v":"vodtype/63"},
-          {"n":"國產自拍探花","v":"vodtype/57"},
+          {"n":"国产自拍探花","v":"vodtype/57"},
           {"n":"91国产自拍","v":"vodtype/67"}
         ]
       },

@@ -23,17 +23,10 @@
   "筛选":{
     "video":[
       {
-        "key":"cateId",
+        "key":"class",
         "name":"分类",
         "value":[
-          {"n":"国产","v":"video"}
-        ]
-      },
-      {
-        "key":"class",
-        "name":"类型",
-        "value":[
-          {"n":"国产","v":""},
+          {"n":"全部","v":""},
           {"n":"自拍视频","v":"zipai"},
           {"n":"淫妻作乐","v":"fuqi"},
           {"n":"开放青年","v":"kaifang"},
@@ -41,23 +34,17 @@
           {"n":"台湾辣妹","v":"twmn"},
           {"n":"韩国主播","v":"krzb"},
           {"n":"动漫卡通","v":"dongman"},
-          {"n":"经典三级","v":"sanji"}
+          {"n":"经典三级","v":"sanji"},
+          {"n":"onlyfans","v":"onlyfans"}
         ]
       }
     ],
     "av":[
       {
-        "key":"cateId",
+        "key":"class",
         "name":"分类",
         "value":[
-          {"n":"女优","v":"av"}
-        ]
-      },
-      {
-        "key":"class",
-        "name":"类型",
-        "value":[
-          {"n":"女优","v":""},
+          {"n":"全部","v":""},
           {"n":"女性向纯爱","v":"nxx"},
           {"n":"GIGA女战士","v":"giga"},
           {"n":"波多野结衣","v":"bdyjy"},
@@ -71,17 +58,10 @@
     ],
     "movie":[
       {
-        "key":"cateId",
+        "key":"class",
         "name":"分类",
         "value":[
-          {"n":"电影","v":"movie"}
-        ]
-      },
-      {
-        "key":"class",
-        "name":"类型",
-        "value":[
-          {"n":"电影","v":""},
+          {"n":"全部","v":""},
           {"n":"无码中字","v":"wuma"},
           {"n":"SM系列","v":"sm"},
           {"n":"高清无码","v":"gaoqing"},
