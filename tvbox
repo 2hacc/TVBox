@@ -14,6 +14,7 @@
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/nmys.json"},
+    {"key": "csp_ny","name": "念影","type": 3,"api": "csp_Nianying","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Fantuan","name": "饭团","api": "csp_Fantuan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     {"key": "csp_Dy1010","name": "双十","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Lgyy","name": "蓝光","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
