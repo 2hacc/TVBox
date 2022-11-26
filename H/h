@@ -50,16 +50,6 @@
 
     {"key":"csp_Alist1","name":"💾Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/H/json/alist.json"},
 
-    {"key": "drpy_js_猫了个咪","name": "🚀猫了个咪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/猫了个咪.js"},
-    {"key": "drpy_js_18av","name": "🚀18av[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/18av.js"},
-    {"key": "drpy_js_Missav","name": "🚀Missav[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/Missav.js"},
-    {"key": "drpy_js_banan","name": "🚀banan[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/banan.js"},
-    {"key": "drpy_js_养端","name": "🚀养端[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/养端.js"},
-    {"key": "drpy_js_吸瓜","name": "🚀吸瓜[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/吸瓜.js"},
-    {"key": "drpy_js_朱古力","name": "🚀朱古力[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/朱古力.js"},
-    {"key": "drpy_js_玩偶姐姐","name": "🚀玩偶姐姐[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/18/玩偶姐姐.js"},
-
-
     {"key":"亚洲成人在线","name":"👙亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable": 0},
     {"key":"草榴视频","name":"👙草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable": 0},
     {"key":"一本道","name":"👙一本道","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable": 0},

@@ -1,0 +1,39 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "厂长资源",
+  "主页url": "https://www.czspp.com",
+  
+  "分类": "豆瓣电影Top250&最新电影&高分影视&电视剧&国产剧&美剧&韩剧&番剧&动漫",
+  "分类值": "dbtop250&zuixindianying&gaofenyingshi&dsj&gcj&meijutt&hanjutv&fanju&dm",
+  
+  "分类url": "https://www.czspp.com/{cateId}/page/{catePg}",
+  
+  "数组": "<li>&&</li>",
+  "图片": "data-original=\"&&\"",
+  "标题": "alt=\"&&\"",
+  "链接": "href=\"&&\"",
+  "副标题": "span>&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "/xssearch?q={wd}&f=_all&p={pg}",
+  "搜索数组": "<li>&&</li>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索副标题": "jidi\"><span>&&</span>",
+  "搜索链接": "href=\"&&\"",
+  
+  "影片年代": "年份：&&</li>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "类型：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "<p>&&</p>",
+  
+  "线路数组": "<div class=\"mi_paly_box\">&&</div>",
+  "线路标题": "<span>&&</span>[替换:在线观看>>播放列表]",
+  
+  "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<[替换:立即播放>>空]",
+  "播放链接": "href=\"&&\""
+}
