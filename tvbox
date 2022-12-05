@@ -14,8 +14,10 @@
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/nmys.json"},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_ny","name": "念影","type": 3,"api": "csp_Nianying","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Fantuan","name": "饭团","api": "csp_Fantuan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
+    {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Dy1010","name": "双十","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Lgyy","name": "蓝光","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -51,8 +53,6 @@
     {"key":"csp_If101","name":"If101[墙]","type": 3,"api":"csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_trj","name":"唐人街[墙]","type": 3,"api":"csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Xiaoh","name": "小宝[墙]","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    
     {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"},
     {"key":"csp_Alist1","name":"Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/alist.json"},
 
