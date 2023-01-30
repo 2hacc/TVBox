@@ -1,23 +1,18 @@
 {
-    "xiaoya": "http://101.34.67.237:5244",
-    "米奇妙妙屋": "https://anime.mqmmw.ga",
-    "菊花盘": "https://pan.142856.xyz",
-    "轻弹浅唱": "https://g.xiang.lol",
-    "梓澪の妙妙屋": "https://xn--i0v44m.xyz",
-    "晴园宝藏库": "https://alist.52qy.repl.co",
-    "兵组网盘影视": "https://6vv.app",
-    "一只鱼": "https://alist.youte.ml",
-    "神器云": "https://al.chirmyram.com",
-    "SB盘": "http://sbpan.tk",
-    "神族九帝": "https://alist.shenzjd.com",
-    "姬路白雪": "https://pan.jlbx.xyz",
-    "听闻网盘": "https://wangpan.sangxuesheng.com",
-    "DISK": "http://124.222.140.243:8080",
-    "云播放": "https://quanzi.laoxianghuijia.cn",
-    "星梦": "https://pan.bashroot.top",
-    "小江": "https://dyj.me",
-    "触光": "https://pan.ichuguang.com",
-    "好汉吧": "https://8023.haohanba.cn",
-    "arhome": "https://alist.arhomenet.tk"
-}
-
+    "drives": [
+      {"name":"小雅","server":"http://alist.xiaoya.pro"},
+      {"name":"杜比","server":"https://dubi.tk"},
+      {"name":"repl","server":"https://alistcn.repl.co"},
+      {"name":"小麦","server":"https://hi.shuaipeng.wang"},
+      {"name":"触光","server":"https://pan.ichuguang.com"},
+      {"name":"一只魚","server":"https://alist.youte.ml"},
+      {"name":"七米蓝","server":"https://al.chirmyram.com"},
+      {"name":"星梦","server":"https://pan.bashroot.top"},
+      {"name":"资源小站","server":"https://960303.xyz"},
+      {"name":"SB盘","server":"http://sbpan.tk"},
+      {"name":"米奇（动漫）","server":"https://anime.mqmmw.ga"},
+      {"name":"姬路白雪（动漫）","server":"https://pan.jlbx.xyz"},
+      {"name":"DISK","server":"http://124.222.140.243:8080"}
+    ]
+  }
+  
