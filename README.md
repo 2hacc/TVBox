@@ -1,45 +1,8 @@
-# TVBox
-对不起大家，之前更新的时候出现了一个低级错误，现在已经改正了。影响大家的使用了实在抱歉~~  
-新添加小雅仙女的JS接口，最近风紧，仅做为备份使用。小雅JS官方地址：http://101.34.67.237/config/2  
-更多接口请访问网站：http://www.2ha.cc
-## github加速
-国内访问地址一
-```
-主接口：
-https://raw.iqiq.io/2hacc/TVBox/main/tvbox
+## 本接口将停止维护，以后将一直维护新的接口
+####新接口的访问地址：[http://tv.2ha.cc](http://tv.2ha.cc "二哈社区")
+![二哈社区](https://www.2ha.cc/template/quater_6_flyme/src/logo.png "2ha.cc")
 
-小雅js：
-https://raw.iqiq.io/2hacc/TVBox/main/drpy/xiaoya.json
-```
-国内访问地址二
-```
-主接口：
-https://raw.fastgit.org/2hacc/TVBox/main/tvbox
+#### 二哈社区官方地址：[www.2ha.cc](www.2ha.cc "二哈社区")
+> 二哈社区是公益性分享社区，社区内包含：TV盒子软件，安卓软件，PC软件和各种网络接口大全。因为本人是业余爱好，所以更新时间不确定，如果有共同爱好的朋友可以发帖子帮忙更新一些软件或者接口，不胜感激！！！
 
-小雅js：
-https://raw.fastgit.org/2hacc/TVBox/main/drpy/xiaoya.json
-```
-国内访问备用地址一
-```
-主接口：
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox
-
-小雅js：
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/drpy/xiaoya.json
-```
-国内访问备用地址二
-```
-主接口：
-https://raw.githubusercontents.com/2hacc/TVBox/main/tvbox
-
-小雅js：
-https://raw.githubusercontents.com/2hacc/TVBox/main/drpy/xiaoya.json
-```
-国内访问备用地址三
-```
-主接口：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox
-
-小雅js：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/xiaoya.json
-```
+** 本接口内的资源均采集自网络，如有侵权或违规请去二哈社区留言，我会及时修改删除。 **
