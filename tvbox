@@ -3,7 +3,7 @@
 /*------论坛里有各种安卓软件、电脑软件及TV接口--------*/
 
 // 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 http://0454dt.com/tvbox 或者 http://2ha.cc/tv  --> 确定
+// 设置 --> 配置地址 --> 输入 https://tv.5ye.cc --> 点击确定 --> 返回首页
 
 {
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.png;md5;808da8066ef19ba41dc4966f588e938d",
