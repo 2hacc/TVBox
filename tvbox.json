@@ -6,7 +6,7 @@
 // 设置 --> 配置地址 --> 输入 https://tv.5ye.cc --> 点击确定 --> 返回首页
 
 {
-  "spider":"https://tv.5ye.cc/jar/tvbox.png;md5; ff36e79de786c9016b806968ad4b86b0",
+  "spider":"https://tv.5ye.cc/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di41eWUuY2MvbGl2ZS9saXZlLnR4dA=="]}]}],
   "sites":[
