@@ -8,13 +8,13 @@
 {
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.png;md5;808da8066ef19ba41dc4966f588e938d",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[
+  "lives": [
     {
-      "name":"直播",
-      "type":1,
-      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt",
-      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo":"http://epg.51zmt.top:8000/{logo}"
+      "name": "直播",
+      "type": 1,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
   ],
   "sites":[
