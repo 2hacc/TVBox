@@ -18,8 +18,6 @@
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Yht","name":"野荷塘","type": 3,"api":"csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://yehetang.cc"},
     {"key":"csp_fantuan","name":"饭团","type": 3,"api":"csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.fantuanhd.com"},
-    {"key": "csp_Slsp","name": "石榴","type": 3,"api": "csp_Slsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.饭太硬.ga/x/json/shiliu.json"},
-    {"key": "Hei19","name": "石榴19","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "3bff500c8b1e06c052a1b0f1f7a62b45"},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_BuLei","name":"布雷","type": 3,"api":"csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_AppTT","name":"图图","type": 3,"api":"csp_AppTT2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://124.248.66.89:7788"},
