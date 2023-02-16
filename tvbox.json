@@ -8,7 +8,15 @@
 {
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.png;md5;808da8066ef19ba41dc4966f588e938d",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby8yaGFjYy9UVkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="]}]}],
+  "lives":[
+    {
+      "name":"直播",
+      "type":1,
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt",
+      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo":"http://epg.51zmt.top:8000/{logo}"
+    }
+  ],
   "sites":[
     {"key":"drpy_js_豆瓣","name":"豆瓣[DRPY]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/js/drpy.js"},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/nmys.json"},
@@ -59,7 +67,7 @@
     {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"},
     {"key":"AliPS","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"},
     {"key":"csp_UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"},
-    {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"},
+    {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
     {"key":"csp_Push","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/token.txt"}
   ],
   "parses":[
