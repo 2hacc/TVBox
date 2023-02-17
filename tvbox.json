@@ -85,9 +85,9 @@
     {"name":"解析15","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=","header":{"User-Agent":"Mozilla/5.0"}},
     {"name":"解析16","type":1,"url":"http://http://pandown.pro/app/kxjx.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
     {"name":"解析17","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
-    {"name": "解析18","type": 1,"url": "https://jx.ccabc.cc/byg/?url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
-    {"name": "解析19","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header": {"User-Agent": "Mozilla/5.0"}},
-    {"name": "解析20","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}}
+    {"name":"解析18","type":1,"url":"https://jx.ccabc.cc/byg/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+    {"name":"解析19","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
+    {"name":"解析20","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
   ],
   "rules":[
     {"host":"*","rule":["default.365yg.com"]},
