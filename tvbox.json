@@ -39,9 +39,9 @@
     {"key":"csp_QQ","name":"腾讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_IQIYI","name":"爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Mgtv","name":"芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
-    // {"key":"csp_Lib","name":"Lib","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://libvio.me"},
-    // {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-    // {"key":"csp_Bttoo","name":"2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Lib","name":"Lib","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://libvio.me"},
+    {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Bttoo","name":"2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Anime1","name":"动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ying","name":"樱花动漫","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -84,7 +84,9 @@
     {"name":"解析14","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","header":{"User-Agent":"Dart/2.14(dart:io)"}},
     {"name":"解析15","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
     {"name":"解析16","type":1,"url":"https://hc.izny.cn/json.php?url="},
-    {"name":"解析17","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}}
+    {"name":"解析17","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
+    {"name":"解析18","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
+    {"name":"解析19","type":0,"url":"https://jx.777jiexi.com/player/?url="}
   ],
   "rules":[
     {"host":"*","rule":["default.365yg.com"]},
