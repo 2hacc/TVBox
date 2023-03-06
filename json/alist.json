@@ -1,18 +1,15 @@
-  {
-    "drives":[
-      {"name":"小雅","server":"https://pan.d1.mk/"},
-      {"name":"repl","server":"https://alistcn.repl.co"},
-      {"name":"杜比","server":"https://dubi.tk"},
-      {"name":"帅鹏","server":"https://hi.shuaipeng.wang"},
-      {"name":"触光","server":"https://pan.ichuguang.com"},
-      {"name":"一只鱼","server":"https://alist.youte.ml"},
-      {"name":"七米蓝","server":"https://al.chirmyram.com"},
-      {"name":"星梦","server":"https://pan.bashroot.top"},
-      {"name":"资源小站","server":"https://960303.xyz"},
-      {"name":"SB盘","server":"http://sbpan.tk"},
-      {"name":"米奇（动漫）","server":"https://anime.mqmmw.ga"},
-      {"name":"姬路白雪（动漫）","server":"https://pan.jlbx.xyz"},
-      {"name":"DISK","server":"http://124.222.140.243:8080"}
-    ]
-  }
-  
+{
+  "drives":[
+    {"name":"小雅","server":"http://alist.xiaoya.pro"},
+    {"name":"杜比","server":"https://dubi.tk"},
+    {"name":"菊花","server":"https://pan.142856.xyz"},
+    {"name":"触光","server":"https://pan.ichuguang.com"},
+    {"name":"七米蓝","server":"https://al.chirmyram.com"},
+    {"name":"星梦","server":"https://pan.bashroot.top"},
+    {"name":"资源小站","server":"https://960303.xyz"},
+    {"name":"神族九帝","server":"https://alist.shenzjd.com"},
+    {"name":"SB盘","server":"http://sbpan.tk"},
+    {"name":"姬路白雪（动漫）","server":"https://pan.jlbx.xyz"},
+    {"name":"DISK","server":"http://124.222.140.243:8080"}
+  ]
+}
