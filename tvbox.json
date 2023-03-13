@@ -45,7 +45,6 @@
     {"key":"csp_Bili","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/bilibili.json"},
     {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/虎牙直播.json"},
     {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/斗鱼直播.json"},
-    {"key":"csp_310","name":"310看球","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/310直播.json"},
     {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/企鹅直播.json"},
     {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/Biliych.json"},
     {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/短视频.json"},
