@@ -63,7 +63,6 @@
     {"key":"csp_Push","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/json/token.txt"}
   ],
   "parses":[
-    {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
