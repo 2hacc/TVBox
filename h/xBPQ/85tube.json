@@ -1,0 +1,23 @@
+{
+    "站名":"85tube",
+    "主页url":"https://85tube.com/categories/",
+    "直接播放":"1",
+    "分类":"泰国$tai-guo#奥美$ao-mei#越南$yue-nan#自拍$zi-pai#近拍$jin-pai#中國$zhong-guo#日本$ri-ben#韓國$han-guo#偷拍$tou-pai#新馬$xin-ma#台灣$tai-wan#香港$xiang-gang#街拍$jie-pai",
+    "数组":"<div class=\"item\">&&</div>",
+    "图片":"src=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+    "链接前缀":"https://85tube.com",
+    "线路数组":"button-rounded&&/a>",
+    "线路标题":">&&<",
+    "搜索数组":"<div class=\"item\">&&</div>",
+    "搜索图片": "src=\"&&\"",
+    "搜索标题":"title=\"&&\"",
+    "搜索链接": "href=\"/search/&&\"",
+    "搜索模式": "1",
+    "搜索url":"https://85tube.com/search/{catePg}",
+    "搜索链接前缀":"https://85tube.com",
+    "分类url":"https://85tube.com/categories/{catePg}",
+    "免嗅":"1",
+    "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
+    }
