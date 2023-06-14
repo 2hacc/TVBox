@@ -3,16 +3,29 @@
   "spider": "http://ftp6284928.host108.abeiyun.cn/h/jar/h.jar;md5;adc2b3038c24d8d5d6c89d760c934875",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
-    {"key":"csp_xpath_lenxitv","name":"🍀冷曦影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XYQHiker/lenxi.json"},
     {"key":"csp_XBiu_真不卡","name":"🍀真不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡.json"},
     {"key":"csp_XBiu_真不卡2","name":"🍀真不卡2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡2.json"},
     {"key":"csp_XBiu_真不卡3","name":"🍀真不卡3(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/真不卡3.json"},
     {"key":"csp_XBiu_不卡","name":"🍀不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/不卡.json"},
     {"key":"CK资源","name":"🍀CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_XBiu_酷云","name":"🍀酷云(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/h/XB/酷云.json"},
-    
-    {"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/四虎.json"},
-    {"key":"csp_xBPQ-85","name":"🏆85tube","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/85tube.json"},
+    {
+      "key": "AList",
+      "name": "网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "AV",
+            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+          }
+        ]
+      }
+    },
+    // {"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/四虎.json"},
     {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉解说.json"},
     {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉资源.json"},
     {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ftp6284928.host108.abeiyun.cn/h/xBPQ/香蕉超清.json"},
@@ -171,10 +184,13 @@
     {"name":"解析27","type":0,"url":"https://okjx.cc/?url="}
   ],
   "rules":[
+    // {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    // {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"host":"*","rule":["avss.vip"]},
     {"host":"avss.vip","rule":[".m3u8"]},
     {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
     {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
+
   ],
   "flags":["youku","优酷","优酷视频","qq","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","sohu","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","bilibili","哔哩","哔哩哔哩","B站","renrenmi","wasu","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","xmm","xigua","m1905","funshion"],
   "ijk":[
