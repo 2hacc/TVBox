@@ -1,10 +1,12 @@
 {
   "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives": [{
+  "lives":[{
     "name":"live",
-    "type": 0,
+    "type":0,
     "url":"http://ftp6284928.host108.abeiyun.cn/live/live.txt",
+    "playerType":1,
+    "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
   }],
