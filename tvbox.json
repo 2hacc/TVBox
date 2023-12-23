@@ -1,7 +1,7 @@
 {
-  "spider":"https://tv.5ye.cc/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
+  "spider":"./jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[{"name":"live","type":0,"url":"https://tv.5ye.cc/live/live.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+  "lives":[{"name":"live","type":0,"url":"./live/mylive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"玩偶哥","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
