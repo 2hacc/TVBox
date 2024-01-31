@@ -1,11 +1,11 @@
 {
-  "spider":"https://tv.5ye.cc/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
+  "spider":"https://raw.fgit.cf/2hacc/TVBox/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://tv.5ye.cc/live/live.txt",
+      "url": "https://raw.fgit.cf/2hacc/TVBox/main/live/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -48,18 +48,18 @@
     {"key":"csp_Ysj","name":"异界动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Anime1","name":"日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
 
-    {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://tv.5ye.cc/json/虎牙直播.json"},
-    {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://tv.5ye.cc/json/斗鱼直播.json"},
-    {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://tv.5ye.cc/json/企鹅直播.json"},
-    {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.5ye.cc/json/Biliych.json"},
-    {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://tv.5ye.cc/json/短视频.json"},
+    {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/虎牙直播.json"},
+    {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/斗鱼直播.json"},
+    {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/企鹅直播.json"},
+    {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/Biliych.json"},
+    {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/短视频.json"},
 
     
-    {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.5ye.cc/json/幼儿乐园.json"},
-    {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.5ye.cc/json/少儿教育.json"},
-    {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.5ye.cc/json/小学课堂.json"},
-    {"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.5ye.cc/json/初中课堂.json"},
-    {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tv.5ye.cc/json/高中课堂.json"},
+    {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/幼儿乐园.json"},
+    {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/少儿教育.json"},
+    {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/小学课堂.json"},
+    {"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/初中课堂.json"},
+    {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/高中课堂.json"},
 
     {"key": "新6V","name": "新6V","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
     {"key": "YiSo","name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
