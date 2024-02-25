@@ -1,5 +1,5 @@
 {
-  "spider": "http://ftp6284928.host108.abeiyun.cn/jar/xiaoya.txt;md5;640134490d5e29918464d07eaa6a1dc4",
+  "spider": "./jar/xiaoya.txt;md5;640134490d5e29918464d07eaa6a1dc4",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di41eWUuY2MvbGl2ZS9saXZlLnR4dA=="]}]}],
   "homepage": "https://gitcode.net/qq_32394351/dr_py",
