@@ -23,13 +23,13 @@
   ],
 
   "sites":[
+    {"key":"豆瓣","name":"豆瓣","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"玩偶哥","name":"玩偶哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     {"key": "短剧","name": "短剧","type": 3,"api": "csp_Duanju","searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "原创","name": "原创","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
-    {"key": "豆豆","name": "豆豆","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "白嫖","name": "白嫖","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "酷看","name": "酷看","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy55.com/"},
