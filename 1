@@ -83,8 +83,9 @@ fi
 
 dnl Checks for libraries.
 dnl AC_CHECK_LIB([pthread], [pthread_create])  # should use ast_pthread_join everywhere?
-AC_SEARCH_LIBS([iconv], [c iconv],,AC_MSG_ERROR([iconv library missing]))
-AC_CHECK_LIB([sqlite3], [sqlite3_open],,AC_MSG_ERROR([sqlite3 library missing]))
+dnl AC_SEARCH_LIBS([iconv], [c iconv],,AC_MSG_ERROR([iconv library missing]))
+AC_CHECK_LIB([iconv], [libiconv])
+
 
 dnl Checks for header files.
 AC_CHECK_HEADERS([fcntl.h stdlib.h string.h sys/time.h termios.h])
@@ -109,8 +110,8 @@ AC_DEFUN([AC_HEADER_FIND], [
 )
 
 AC_HEADER_FIND([asterisk.h], $with_asterisk)
-AC_HEADER_FIND([iconv.h], $with_iconv)
-AC_CHECK_HEADER([sqlite3.h],,AC_MSG_ERROR([sqlite3.h header file missing]))
+dnl AC_HEADER_FIND([iconv.h], $with_iconv)
+dnl AC_CHECK_HEADER([sqlite3.h],,AC_MSG_ERROR([sqlite3.h header file missing]))
 
 AC_DEFINE([ICONV_CONST],[], [Define to const if you has iconv() const declaration of input buffer])
 AC_MSG_CHECKING([for iconv use const inbuf])
@@ -224,8 +225,6 @@ dnl Apply options to defines
 if test "x$enable_debug" = "xyes" ; then
   CFLAGS="$CFLAGS -O0 -g"
   AC_DEFINE([__DEBUG__], [1], [Build with debugging])
-else
-  CFLAGS="$CFLAGS -O6"
 fi
 
 dnl Asterisk header files use lots of old style declarations, ignore those.
