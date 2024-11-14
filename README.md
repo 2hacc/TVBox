@@ -8,25 +8,9 @@
 ```
 
 ### GitHub加速
-国内访问地址一
-```
-TVBox接口：
-https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
-  
-OK影视接口：
-https://raw.iqiq.io/2hacc/TVBox/main/oktv.json
 
 ```
-国内访问地址二
-```
-TVBox接口：
-https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json
-  
-OK影视接口：
-https://raw.fastgit.org/2hacc/TVBox/main/oktv.json
-
-```
-国内访问备用地址一
+国内访问访问地址一
 ```
 TVBox接口：
 https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json
@@ -35,7 +19,7 @@ OK影视接口：
 https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
 
 ```
-国内访问备用地址二
+国内访问访问地址二
 ```
 TVBox接口：
 https://raw.githubusercontents.com/2hacc/TVBox/main/tvbox.json
@@ -44,7 +28,7 @@ OK影视接口：
 https://raw.githubusercontents.com/2hacc/TVBox/main/oktv.json
 
 ```
-国内访问备用地址三
+国内访问访问地址三
 ```
 TVBox接口：
 https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
