@@ -1,5 +1,6 @@
 {
   "spider":"https://raw.kkgithub.com/2hacc/TVBox/main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b",
+  "logo":"https://raw.kkgithub.com/2hacc/TVBox/main/logo.png",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[
     {"name":"IPV4","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u","playerType":1},
